@@ -1,13 +1,16 @@
-# Your Name
+# LAURENS SYS
 
-Short tagline (e.g., “Product-minded developer”, “Data scientist”, “Designer who codes”, etc.)
+Laurens Sys ...
 
 ## Projects
-- **Project 1** — one line on what it is. ([code](#) • [demo](#))
-- **Project 2** — one line on what it is. ([code](#))
-- **Project 3** — one line on what it is. ([write-up](#))
+- ** Own Side Project** — one line on what it is. ([code](#) • [demo](#))
+This is a aplaceholder for project A
+- **Formula electric Belgium** — one line on what it is. ([code](#))
+- Add Pictures, descriptions
+- **Thesis** — one line on what it is. ([write-up](#))
+- Add Descriptions + end result tools (show what it did and looked like
 
 ## Contact
-- Email: you@example.com
+- Email: syslaurens@gmail;com
 - GitHub: https://github.com/YOUR_GITHUB
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
